@@ -1,0 +1,30 @@
+
+
+.treeMain{
+    margin-left: 2em;
+    margin-right: 3em;
+    margin-bottom: 5em;
+}
+
+#standard-required{
+    font-size: 12px;
+    height: 3em;
+    font-family: 'GmarketSansMedium';
+}
+
+#btnCreate{
+    background-color:#FE9A2E;
+    font-family: 'GmarketSansMedium';
+    border-radius: 25px;
+    width: 100%;
+    height: 3em;
+    margin: 1em 0 0 0;
+}
+#btnSearch{
+    font-family: 'GmarketSansMedium';
+    border-radius: 25px;
+    width: 100%;
+    height: 3em;
+    margin: 1em 0 0 0;
+}
+

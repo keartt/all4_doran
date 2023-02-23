@@ -1,0 +1,30 @@
+.iconBtn {
+  width: 33%;
+  color: 'red';
+  size : 'large'
+}
+
+.titleName {
+  /* margin-left: 13%; */
+  margin-bottom: -1px;
+}
+
+hr{
+  width:"80%"
+}
+
+
+.homeContainer{
+  height: 100%;
+}
+
+.homeCenter{
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 3px 3px 6px rgba(0,0,0,0.23);
+  border-radius: 25px;
+  background-color: white;
+  width: 40%;
+  height: 100%;
+  margin:  5em auto;
+  padding: 1px;
+}
+

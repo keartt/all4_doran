@@ -1,0 +1,36 @@
+
+
+.carrotMain{
+    margin-left: 2em;
+    margin-right: 3em;
+    margin-bottom: 5em;
+}
+
+#standard-required{
+    font-size: 12px;
+    height: 3em;
+    font-family: 'GmarketSansMedium';
+}
+
+#test{
+    margin: 0 auto;
+}
+
+
+.slick-arrow.slick-prev::before, .slick-arrow.slick-next::before{
+    color:black;
+}
+
+#anonymous{
+    margin-left: 0.5em;
+}
+
+#btnCarrot{
+    text-align: right;
+    font-family: 'GmarketSansMedium';
+    border: none;
+    font-size: 18px;
+    background-color: white;
+    color: #FF8000;
+}
+

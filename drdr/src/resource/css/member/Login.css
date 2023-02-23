@@ -1,0 +1,106 @@
+.divMain{
+    margin-left: 1em;
+    margin-right: 2em;
+    margin-bottom: 5em;
+}
+
+#btnLogin{
+    background-color:#FE9A2E;
+    font-family: 'GmarketSansMedium';
+    border-radius: 25px;
+    width: 100%;
+    height: 3em;
+    color: white;
+}
+
+@font-face {
+    font-family: 'GmarketSansMedium';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansMedium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  .login-image {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .image-1 {
+    animation: bouncing-image-1 0.5s ease-in-out infinite;
+  }
+  
+  .image-2 {
+    animation: bouncing-image-2 2.5s ease-in-out infinite;
+  }
+  
+  .image-3 {
+    animation: bouncing-image-3 3s ease-in-out infinite;
+  }
+  
+  .image-4 {
+    animation: bouncing-image-4 2s ease-in-out infinite;
+  }
+  
+  .image-5 {
+    animation: bouncing-image-5 1s ease-in-out infinite;
+  }
+  
+  @keyframes bouncing-image-1 {
+    0% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-10px);
+    }
+    100% {
+      transform: translateY(0);
+    }
+  }
+  
+  @keyframes bouncing-image-2 {
+    0% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-35px);
+    }
+    100% {
+      transform: translateY(0);
+    }
+  }
+  
+  @keyframes bouncing-image-3 {
+    0% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-20px);
+    }
+    100% {
+      transform: translateY(0);
+    }
+  }
+  
+  @keyframes bouncing-image-4 {
+    0% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-15px);
+    }
+    100% {
+      transform: translateY(0);
+    }
+  }
+  
+  @keyframes bouncing-image-5 {
+    0% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-25px);
+    }
+    100% {
+      transform: translateY(0);
+    }
+  }
